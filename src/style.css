@@ -1,5 +1,9 @@
 body {
-  background-color: #fdd14f;
+  background-color: #fefbef;
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
 }
 .weather-app {
   background-color: #31afba;
